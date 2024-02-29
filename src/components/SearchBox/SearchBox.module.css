@@ -19,7 +19,8 @@
   border-radius: 320px;
   padding: 12px;
   margin-bottom: 55px;
-  background-color: #be574e56;
+  background-color: #ffffff00;
+  backdrop-filter: blur(8px);
   box-shadow: inset 2px 2px 5px #494a4e, inset -5px -5px 10px #ffffff93;
   width: 100%;
   box-sizing: border-box;

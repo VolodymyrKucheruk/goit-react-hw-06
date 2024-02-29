@@ -26,7 +26,8 @@
   border-radius: 320px;
   padding: 16px;
   margin-bottom: 5px;
-  background-color: #fbedc3;
+  background-color: #ffffff01;
+  backdrop-filter: blur(8px);
   box-shadow: inset 2px 2px 5px #8d8363, inset -5px -5px 10px #fff;
   width: 100%;
   box-sizing: border-box;
