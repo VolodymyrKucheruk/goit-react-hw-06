@@ -24,3 +24,4 @@ export const filtersReducer = persistReducer(
 );
 
 export const { changeFilter } = filtersSlice.actions;
+export const selectFilter = (state) => state.filters.name;
